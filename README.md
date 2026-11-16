@@ -1,27 +1,15 @@
 ![Banner image: 3D rendering of an ASIC](images/banner.png)
 
-## 🧍‍♂️ Hi, I'm Matthew!
-I'm a Computer Engineering student at [UofT](https://www.utoronto.ca/), interested in computer architecture and digital/physical design. :)
+## 🧍🏻‍♂️ Hi, I'm Matthew!
+I'm an ECE @ [UofT](https://www.utoronto.ca/), interested in computer architecture and digital/physical design. :D
 
-You can reach me at:
+hmu with your favourite poutine spots in Toronto:
 
 - 📧 matthew.kong@mail.utoronto.ca
 - 🌐 [mattkong.com](https://www.mattkong.com) (work in progress)
 - 💼 [linkedin.com/in/matthew--kong](https://www.linkedin.com/in/matthew--kong/)
 
-Incoming Physical Design @ [Lightmatter](https://lightmatter.com/) + AI Silicon Design @ [Cognichip](https://www.cognichip.ai/) 👀👀👀
+---
 
-<!--
-**HynixCJR/HynixCJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Physical Design @ [Lightmatter](https://lightmatter.com/) (S27) + AI Silicon Design @ [Cognichip](https://www.cognichip.ai/) (S28) 👀👀👀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
