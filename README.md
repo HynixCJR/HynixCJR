@@ -1,3 +1,5 @@
+![Banner image: 3D rendering of an ASIC](images/banner.png)
+
 ## 🧍‍♂️ Hi, I'm Matthew!
 I'm a Computer Engineering student at [UofT](https://www.utoronto.ca/), interested in computer architecture and digital/physical design. :)
 
