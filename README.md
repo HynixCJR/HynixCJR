@@ -1,4 +1,13 @@
-## Hi there 👋
+## 🧍‍♂️ Hi, I'm Matthew!
+I'm a Computer Engineering student at [UofT](https://www.utoronto.ca/), interested in computer architecture and digital/physical design. :)
+
+You can reach me at:
+
+- 📧 matthew.kong@mail.utoronto.ca
+- 🌐 [mattkong.com](https://www.mattkong.com) (work in progress)
+- 💼 [linkedin.com/in/matthew--kong](https://www.linkedin.com/in/matthew--kong/)
+
+Incoming Physical Design @ [Lightmatter](https://lightmatter.com/) + AI Silicon Design @ [Cognichip](https://www.cognichip.ai/) 👀👀👀
 
 <!--
 **HynixCJR/HynixCJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
